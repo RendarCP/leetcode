@@ -1,5 +1,5 @@
 function gcdOfStrings(str1: string, str2: string): string {
-        if (str1 + str2 != str2 + str1) return ''
+    if (str1 + str2 != str2 + str1) return ''
     let str1Leng = str1.length
     let str2Leng = str2.length
 
